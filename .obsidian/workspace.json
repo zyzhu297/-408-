@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "408/计算机组成原理/7.输入输出系统/3.输入输出方式.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.输入输出方式"
+            }
+          },
+          {
+            "id": "4150f5fc74eeb235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "408/计算机组成原理/7.输入输出系统/2.输入输出接口.md",
                 "mode": "source",
                 "source": false,
@@ -67,7 +91,8 @@
               "title": "3.操作系统的运行环境"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "起始",
+                "query": "异步",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +145,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/句子.md",
+                "file": "408/计算机组成原理/7.输入输出系统/2.输入输出接口.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "句子 的大纲"
+              "title": "2.输入输出接口 的大纲"
             }
           },
           {
@@ -252,8 +278,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fb71cbf1d6815da",
+  "active": "3a6385bc53984978",
   "lastOpenFiles": [
+    "408/计算机组成原理/7.输入输出系统/3.输入输出方式.md",
+    "408/计算机组成原理/7.输入输出系统/2.输入输出接口.md",
     "408/计算机组成原理/7.输入输出系统/1.输入输出系统基本概念.md",
     "408/操作系统/2.进程与线程/4.同步与互斥.md",
     "408/操作系统/3.内存管理/2.虚拟内存管理.md",
@@ -281,8 +309,6 @@
     "408/计算机组成原理/3.存储系统/2.主存储器.md",
     "408/计算机组成原理/2.数据的表示和运算/3.浮点数的表示与运算.md",
     "408/数据结构/2.线性结构/7.串.md",
-    "数学/杂项/卡特兰(Catalan)数.md",
-    "英语/短语.md",
     "408/计算机网络/2.物理层/1.通信基础.md.tmp.20808.8ad70168c4c3",
     "408/计算机网络/27王道《计算机网络》高清带书签.pdf",
     "408/计算机网络/2.物理层/1.通信基础.md.tmp.20808.c02fba8cd372",
