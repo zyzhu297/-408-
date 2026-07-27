@@ -145,8 +145,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -278,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a6385bc53984978",
+  "active": "ded16cfbc7b78360",
   "lastOpenFiles": [
     "408/计算机组成原理/7.输入输出系统/3.输入输出方式.md",
     "408/计算机组成原理/7.输入输出系统/2.输入输出接口.md",
